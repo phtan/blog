@@ -6,8 +6,50 @@
     <description>Recent content on Pheng Heong&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jul 2016 04:26:21 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 23 Jul 2016 00:17:18 +0800</lastBuildDate>
     <atom:link href="http://phtan.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Food wastage and poverty</title>
+      <link>http://phtan.github.io/blog/post/2016-05-03-food-and-poverty/</link>
+      <pubDate>Sat, 23 Jul 2016 00:17:18 +0800</pubDate>
+      
+      <guid>http://phtan.github.io/blog/post/2016-05-03-food-and-poverty/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s 5 AM on the 3rd of May, 2016, and I am sitting for an examination in the afternoon, and I am feeling bad that my present concerns are (nothing but) my university grades and travel plans. I have watched a video on &lt;em&gt;pagpag&lt;/em&gt;, a name for leftover food that is eaten in some parts of the Philippines. It is about eight minutes long. You can watch it in the player below:&lt;/p&gt;
+
+&lt;iframe src=&#34;https://player.vimeo.com/video/69272982&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I recalled a video that I had watched recently on food wastage in Singapore. Edible food is thrown into the trash because it is below aesthetic standards. The video is as below:&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/bCpPEZ6S8ZY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I thought about what I could do about the situation. What if the edible food in Singapore is channeled to the people in the Philippines? Or am I being arrogant in thinking that people who eat &lt;em&gt;pagpag&lt;/em&gt; prefer something else?&lt;/p&gt;
+
+&lt;p&gt;It is difficult to write this post because of the complex issue of poverty, and because I&amp;rsquo;m still affected by the video on &lt;em&gt;pagpag&lt;/em&gt;. I feel horrible.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open-source feels like work</title>
+      <link>http://phtan.github.io/blog/post/2016-07-22-open-source-feels-like-work/</link>
+      <pubDate>Sat, 23 Jul 2016 00:11:11 +0800</pubDate>
+      
+      <guid>http://phtan.github.io/blog/post/2016-07-22-open-source-feels-like-work/</guid>
+      <description>&lt;p&gt;For a given open-source software project, there will always be requests for features. There will always be bugs to fix. The question is, will there always be a developer for implementing features and bug-fixes?&lt;/p&gt;
+
+&lt;p&gt;I contributed to &lt;a href=&#34;http://tatoeba.org&#34;&gt;Tatoeba&lt;/a&gt; and &lt;a href=&#34;http://github.com/gogits/gogs&#34;&gt;Gogs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;When I look at the pending feature requests for Tatoeba, it feels like work. Not fun. So I told the core developer, &lt;a href=&#34;http://github.com/trang&#34;&gt;Trang&lt;/a&gt;, that I was going away from Tatoeba. (S)he was cool about it.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;I&amp;rsquo;ll simply move you to the &amp;lsquo;Inactive&amp;rsquo; Github team if you don&amp;rsquo;t come back,&amp;rdquo; she said on the &lt;a href=&#34;http://gitter.im&#34;&gt;Gitter&lt;/a&gt; chat.&lt;/p&gt;
+
+&lt;p&gt;It was cool to see my code create an impact on the Tatoeba website.&lt;/p&gt;
+
+&lt;p&gt;But contributing to Tatoeba is &lt;em&gt;not fun&lt;/em&gt;. Not anymore. The Thais have an expression for it: &lt;em&gt;mai sanuk&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;And that&amp;rsquo;s how I left Tatoeba development.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cigarettes and my sister</title>
